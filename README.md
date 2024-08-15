@@ -1,5 +1,6 @@
 <h1><a href="https://armaan-singh-bhau.notion.site/Linux-Hand-book-f86c222a3ac9457c8df970873a2a991e?pvs=73" target="_blank"><strong>Linux: HandBook</strong></a> 👈 Click to Visit</h1>
-![Linux_Banner](images/linux_banner.png)
+<img src="images/linux_banner.png" alt="Application Screenshot" width="1200" height="300">
+
 
 <p>💡Unlock the power of Linux with our comprehensive handbook designed for both beginners and experienced users. Whether you're delving into Linux for the first time or seeking to deepen your expertise, this handbook is your go-to resource for mastering the world of open-source computing.</p>
 
