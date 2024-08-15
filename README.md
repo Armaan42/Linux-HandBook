@@ -1,50 +1,56 @@
-# Linux-HandBook
+<h1><strong>Linux: HandBook</strong></h1>
+<p>💡Unlock the power of Linux with our comprehensive handbook designed for both beginners and experienced users. Whether you're delving into Linux for the first time or seeking to deepen your expertise, this handbook is your go-to resource for mastering the world of open-source computing.</p>
 
-# [Your Book Title]
-
-## Description
-
-Provide a brief description of your book here. Explain what it's about, the target audience, and why it's valuable or interesting.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Chapter 1: Title](#chapter-1-title)
-3. [Chapter 2: Title](#chapter-2-title)
-4. [Conclusion](#conclusion)
-
-## Installation
-
-If your book is available for download or purchase, include instructions here on how to obtain it. For example:
-
-- **Download**: [Link to download](#)
-- **Purchase**: [Link to purchase](#)
-
-## Usage
-
-Explain how readers can use your book. This could include how to navigate it, any supplementary materials, or how to engage with the content.
-
-## Contributing
-
-If you welcome contributions or feedback, provide guidelines here on how others can contribute to the project. For example:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-Include information about the license under which your book is distributed. For example:
-
-This book is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-Provide contact information or links where readers can reach you for more information or to provide feedback.
-
-- **Author**: [Armaan singh bhau](https://yourwebsite.com)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
-
+<ul>
+  <li><strong>Part - 1 : Getting Started.</strong>
+    <ul>
+      <li>Chapter - 1 : Getting Started</li>
+      <li>Chapter - 2 : Creating the Perfect Linux Desktop</li>
+    </ul>
+  </li>
+  <li><strong>Part - 2 : Becoming Linux Power User.</strong>
+    <ul>
+      <li>Chapter - 3 : Using the Shell</li>
+      <li>Chapter - 4 : Moving around the File-System</li>
+      <li>Chapter - 5 : Working with Text-Files</li>
+      <li>Chapter - 6 : Managing Running Processes</li>
+      <li>Chapter - 7 : Writing Simple Shell Scripts</li>
+    </ul>
+  </li>
+  <li><strong>Part - 3 : Becoming a Linux System Administrator.</strong>
+    <ul>
+      <li>Chapter - 8 : Learning System Administration</li>
+      <li>Chapter - 9 : Installing Linux</li>
+      <li>Chapter - 10 : Getting and Managing Software</li>
+      <li>Chapter - 11 : Managing User Accounts</li>
+      <li>Chapter - 12 : Managing Disk and Filesystems</li>
+    </ul>
+  </li>
+  <li><strong>Part - 4 : Becoming a Linux Server Administrator.</strong>
+    <ul>
+      <li>Chapter - 13 : Understanding Server Administration</li>
+      <li>Chapter - 14 : Administering Networking</li>
+      <li>Chapter - 15 : Starting and Stopping Services</li>
+      <li>Chapter - 16 : Configuring a Print Server</li>
+      <li>Chapter - 17 : Configuring a Web Server</li>
+      <li>Chapter - 18 : Configuring an FTP Server</li>
+      <li>Chapter - 19 : Configuring a Windows File Sharing (Samba) Server</li>
+      <li>Chapter - 20 : Configuring an NFS File Server</li>
+      <li>Chapter - 21 : Troubleshooting Linux</li>
+    </ul>
+  </li>
+  <li><strong>Part - 5 : Learning Linux Security Techniques.</strong>
+    <ul>
+      <li>Chapter - 22 : Understanding Basic Linux Security</li>
+      <li>Chapter - 23 : Understanding Advanced Linux Security</li>
+      <li>Chapter - 24 : Enhancing Linux Security with SELinux</li>
+      <li>Chapter - 25 : Securing Linux on a Network</li>
+    </ul>
+  </li>
+  <li><strong>Part - 6 : Extending Linux into Cloud.</strong>
+    <ul>
+      <li>Chapter - 26 : Using Linux for Cloud Computing</li>
+      <li>Chapter - 27 : Deploying Linux to the Cloud</li>
+    </ul>
+  </li>
+</ul>
